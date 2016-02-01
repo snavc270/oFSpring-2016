@@ -2,6 +2,8 @@
 
 ##Courtney Snavely 
 
+![alt tag](http://static1.squarespace.com/static/569ff5721a5203cf1970a3e2/t/56a8142276d99c0164fa4933/1453855844720/1385863_10100604184776012_9052505120047299438_n.jpg?format=300w)
+
 ##About Me 
 I am a current 1st year grad student in the Design and Technology program at Parsons. 
 
@@ -13,4 +15,4 @@ I am originally from Hershey, PA but lived in Pittsburgh for 6 years and San Die
 * Creating interactive installations
 * VR 
 
-![alt tag](http://static1.squarespace.com/static/569ff5721a5203cf1970a3e2/t/56a8142276d99c0164fa4933/1453855844720/1385863_10100604184776012_9052505120047299438_n.jpg?format=500w)
+
