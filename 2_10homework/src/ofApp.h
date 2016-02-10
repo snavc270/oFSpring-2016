@@ -27,6 +27,8 @@ class ofApp : public ofBaseApp{
     int red=255;
     int g=255;
     int b=255;
+
     bool color; 
     
+
 };

@@ -23,8 +23,7 @@ void ofApp::draw(){
     }
 
     
-    
-    for(int i=0; i<6; i++){
+        for(int i=0; i<6; i++){
         
     polyline.lineTo(ofGetWidth()/2-100*i,ofGetHeight()/2-100*i);
     polyline.lineTo(ofGetWidth()/2+100*i,ofGetHeight()/2-100*i);
@@ -35,6 +34,7 @@ void ofApp::draw(){
     polyline.draw();
         
     }
+
     
 
 }
@@ -42,6 +42,7 @@ void ofApp::draw(){
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
     if(key=='r'){
+
         if(red==255){
             color=true;
         }
@@ -55,8 +56,7 @@ void ofApp::keyPressed(int key){
                 red+=5;
             }
             cout<< red << endl;
-  
-    }
+            }
     if(key=='g'){
         if(g==255){
             color=true;
@@ -71,6 +71,7 @@ void ofApp::keyPressed(int key){
             g+=5;
         }
     }
+
     
     if(key=='b'){
         if(b==255){
