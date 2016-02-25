@@ -23,7 +23,7 @@ void ofApp::draw(){
     }
 
     
-        for(int i=0; i<6; i++){
+    for(int i=0; i<6; i++){
         
     polyline.lineTo(ofGetWidth()/2-100*i,ofGetHeight()/2-100*i);
     polyline.lineTo(ofGetWidth()/2+100*i,ofGetHeight()/2-100*i);
@@ -31,11 +31,11 @@ void ofApp::draw(){
     polyline.lineTo(ofGetWidth()/2-100*i,ofGetHeight()/2+100*i);
     polyline.close();
     
-    polyline.draw();
+    
         
     }
 
-    
+    polyline.draw();
 
 }
 
